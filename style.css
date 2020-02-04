@@ -34,10 +34,10 @@ h1,h2,h3 {
     margin : 0;
 }
 h1 {
-    font-size : 36px;
+    font-size : 34px;
     margin: 0px;
     text-align: center;
-    font-color : green;
+    font-color : blue;
     
 }
 .stock{
